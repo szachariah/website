@@ -51,7 +51,8 @@ table {
 /* Begin Site Styles */
 /* Start user CSS */
 html {
-	background-color: grey;
+	background-color: rgb(149,148,144);
+	font-family: 'Nunito', sans-serif;
 	padding: 1.2222222em;
 	font-size: 1.125em; /* 18/16 = 1.25em*/
 }
