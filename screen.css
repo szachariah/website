@@ -49,3 +49,33 @@ table {
 
 /* End Reset CSS */
 /* Begin Site Styles */
+/* Start user CSS */
+html {
+	background-color: grey;
+	padding: 1.2222222em;
+	font-size: 1.125em; /* 18/16 = 1.25em*/
+}
+html h1{
+	font-size: 1.933em; /* using ratio perfect fourth 23.994/18=1.333*/
+	line-height: 2.7506876719em; /* 66/23.994 = 2.7506876719em*/
+	text-align: center;
+
+}
+p {
+	line-height: 1.2222222em; /* 22/18 = 1.2222222em*/
+	text-indent: 1.2222222em;
+	padding-bottom: 1.2222222em;
+	text-align: justify;
+}
+img {
+/*image-resolution: 10%from-image; */
+	display: block;
+	max-width: 15%;
+}
+figcaption {
+	/*text-align: center;*/
+	line-height: 1.2222222em; /* 22/18 = 1.2222222em*/
+	text-indent: 1.2222222em;
+	padding-bottom: 1.2222222em;
+
+}
